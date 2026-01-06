@@ -1,1 +1,1 @@
-print("I'm Goinig to change the World")
+print("I'm Gonig to change the World")
