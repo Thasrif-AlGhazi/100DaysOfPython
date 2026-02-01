@@ -6,4 +6,4 @@ c = int(input("Days Completed: "))
 
 Consistent = (a+b) < 5
 
-print(f"I have Practiced for {a+b} hours. Consistency Status {Consistent}")
+print(f"I have Practiced for {a+b} hours. Consistency Status {Consistent}.")
