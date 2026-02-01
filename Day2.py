@@ -15,5 +15,5 @@ total_income = A*B
 total_expenses = C+D
 net_profit = total_income - total_expenses
 
-print(f"I edited {B} videos and my pure profit is {net_profit}")
+print(f"I edited {B} videos and my pure profit is {net_profit}.")
 
