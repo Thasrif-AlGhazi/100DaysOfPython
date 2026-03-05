@@ -13,4 +13,4 @@ result = is_valid(userr, pwd)
 if result:
     print("Login Successful")
 else:
-    print("Login Failead")
+    print("Login Failed")
